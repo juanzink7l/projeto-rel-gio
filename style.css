@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #111;
+    color: white;
+    padding-top: 30px;
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20210522/pngtree-music-background-black-and-white-simple-image_718972.jpg);
+}
+
+#clock {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+#singerImage {
+    width: 500px;
+    height: 500px;
+    border-radius: 20px;
+    object-fit: cover;
+    border: 3px solid #fff;
+}
+
